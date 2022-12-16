@@ -389,6 +389,4 @@
 
 
 > [参考文献 （Code Guide by @AlloyTeam）](http://alloyteam.github.io/CodeGuide/)
-> [参考文献 （guide - Css编码规范）](https://github.com/surmon-china/developer-code-guide)
-
 
