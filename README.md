@@ -5,3 +5,6 @@ Code Guide
 
 
 [Git/基本设置](https://github.com/ChetSerenade/Code-Guide-by-Chet/blob/main/git-quick-play.md)
+
+
+[JS/风格](https://github.com/ChetSerenade/Code-Guide-by-Chet/blob/main/javascript-guide.md)
